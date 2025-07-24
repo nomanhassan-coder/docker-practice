@@ -40,7 +40,7 @@ devops-clock/
 
 1. Clone the repository:
    ```bash
-   (https://github.com/nomanhassan-coder/docker-practice)
+   https://github.com/nomanhassan-coder/docker-practice
    cd devops-clock
 
 
